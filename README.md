@@ -267,20 +267,13 @@ All portals use React Router with `basename` prop configured for proper routing 
 
 ## 👥 Team
 
-- Member 1: Frontend (Citizen Side)
-- Member 2: Sweeper + Admin UI
-- Member 3: Firebase & Backend
-- Member 4: AI & Maps
+- Suhani: AI & Maps
+- Drashvi: Sweeper + Admin UI
+- Kathan: Firebase & Backend
+- Parth: Frontend (Citizen Side)
 
 ## 📄 License
 
-This project is part of HackHive26 hackathon.
+This project is part of AutonomousHacks26 hackathon.
 
 ---
-
-## 🎉 Quick Links
-
-- 🌐 **Live Site**: [https://hackhive-autonomous.web.app](https://hackhive-autonomous.web.app)
-- 🔧 **Local Development**: Run `npm run dev`
-- 🚀 **Deploy**: Run `npm run deploy`
-- 📊 **Firebase Console**: [https://console.firebase.google.com/project/hackhive-autonomous](https://console.firebase.google.com/project/hackhive-autonomous)
